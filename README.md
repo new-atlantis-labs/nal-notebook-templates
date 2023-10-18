@@ -16,13 +16,13 @@ Ensure this command is run in your template directory and not in main.
 Do whatever changes you want to develop the notebooks for your protocol/tool.
 generate a new repo on github to locate your new code 
 
-  git remote add origin <https://github.com/<username>/<repo-name>
+      git remote add origin <https://github.com/<username>/<repo-name>
 
-  git add . 
+      git add . 
 
-  git commit -m "message"
+      git commit -m "message"
 
-  git push 
+      git push 
   
 Instructions on making PAT for this.
 
